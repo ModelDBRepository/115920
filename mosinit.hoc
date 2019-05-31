@@ -1,0 +1,7 @@
+load_file("nrngui.hoc")
+xpanel("see the readme.txt file")
+xlabel("This interface which allows access to a MySQL server from the NEURON")
+xlabel("simulation environment requires compiling and linking a library.")
+xlabel("See the readme.txt file for details.")
+xbutton("exit","quit()")
+xpanel()
